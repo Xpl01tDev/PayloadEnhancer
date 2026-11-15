@@ -25,7 +25,7 @@ run one of these to run it then you have 3 options
 3. Quit
 
 ## What is persistence 
-Persistence basically is when the pc starts up the file runs
+Persistence basically is when the file is run as soon as the user logs into the pc
 
 ## Which file to run
-So which file do you run so you run the payload.exe since it will run your .exe or whatever file with the extra options selected!
+So which file do you run? So you run the payload.exe since it will run your .exe or whatever file with the extra options selected!
