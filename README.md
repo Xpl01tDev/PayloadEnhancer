@@ -3,6 +3,9 @@
 This is an project i made where it runs your payload but with extra options such as persistence and self destruction (i will make more in the feature)
 
 ## Contents
+- [**How does it work?**](#which-file-to-run)
+- [**What is persistence?**](#what-is-persistence)
+- [**Which file to run?**](#which-file-to-run)
 
 ## How does it work?
 
