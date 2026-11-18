@@ -26,10 +26,13 @@ run one of these to run it then you have 3 options
 3. Quit
 
 ## What is persistence 
-Persistence basically is when the file is run as soon as the user logs into the pc
+Persistence is when the user restarts his/her pc it runs the file as soon as logged in. Which can be handy when you have an tool and is turning off because of restarting this fixes it!
 
 ## Which file to run
-So which file do you run? So you run the payload.exe since it will run your .exe or whatever file with the extra options selected!
+So which file do you run? 
+Your run the selected payload because it will launch your file first and then runs the settings you applied!
 
 ## Info
 This project is in development and therefor not the finished built. I am not responsible for damages or unauthorized access. This tool is for **educational purposes** only!
+
+Would appreciate if you star this project!
