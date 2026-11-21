@@ -14,19 +14,19 @@ So to run it you run the following
 
 powershell:
 ```
-.\main.exe
+python main.py
 ```
-CMD:
-```
-main.exe
-```
-run one of these to run it then you have 3 options 
+run one of these to run it then you have 7 options 
 1. Add persistence 
 2. Add self destruction
-3. Quit
+3. Block keys while payload is being ran
+4. Send info to an webhook (this is an beta feature)
+5. Install the requirements
+6. Help
+7. Quit
 
 ## What is persistence 
-Persistence is when the user restarts his/her pc it runs the file as soon as logged in. Which can be handy when you have an tool and is turning off because of restarting this fixes it!
+Persistence is when the user restarts his/her pc, it runs the file as soon as logged in. Which can be handy when you have an tool and is turning off because of restarting this fixes it!
 
 ## Which file to run
 So which file do you run? 
