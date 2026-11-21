@@ -14,7 +14,11 @@ So to run it you run the following
 
 powershell:
 ```
-python main.py
+python Builder.py
+```
+or if you get the exe double click it or do:
+```
+.\Builder.exe
 ```
 run one of these to run it then you have 7 options 
 1. Add persistence 
